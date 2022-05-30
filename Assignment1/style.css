@@ -22,3 +22,65 @@
     height: 40px;
     margin-top:50px ;
 }
+   .form{
+    width: 150px;
+    height: 27vh;
+    background-color: #ffff;
+    position:absolute;
+    top: 95px;
+    left: 300px;
+    border-radius: 10px;
+    padding: 40px;
+    right: 500px;
+    margin-left: -20px;
+
+}
+.form h6{
+    margin-left: 39%;
+}
+
+.btnn{
+    width: 50px;
+    height: 20px;
+    background-color: rgb(3, 3, 92);
+    margin-top: 30px;
+    border: none;
+    margin-left: 45px;
+
+}
+.btnn a{
+    color: #ffff;
+}
+.form input{
+    border-bottom: 1px solid black;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    width: 150px;
+    height:25px;
+    background: transparent;
+    font-size: 8px;
+    font-family: sans-serif;
+}
+.pic{
+    background: url(images/mail.png);
+    width: 3%;
+    height: 14px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 290px;
+    position: absolute;
+    margin-top:-53px;
+    margin-right: -40px;
+}
+.pencil{
+    background: url(images/pencil.png);
+    width: 3%;
+    height: 18px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 290px;
+    position: absolute;
+    margin-top: -20px ;
+
+}
